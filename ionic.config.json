@@ -1,0 +1,8 @@
+{
+  "name": "ipsyscon",
+  "app_id": "4bb177f7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
